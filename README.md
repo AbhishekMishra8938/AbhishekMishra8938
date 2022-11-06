@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbhishekMishra8938
+- 👋 Hi, I’m Abhishek Mishra, 2022 graduate in ECE
 - 👀 I’m interested in Software Development Engineering
 - 🌱 I’m currently learning MERN stack, Web3 and DApps
 - 📫 How to reach me mail me :- abhishek.mishra8938@gmail.com
