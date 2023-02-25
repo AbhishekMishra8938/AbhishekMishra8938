@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 2022 graduate in Electronics and Communication Engineering(ECE).<br><br>Here are my key skills:<br>- C++, Core Java<br>- Operating System Concept, Data Base Management System (basic)<br>- Frontend: HTML&CSS, JavaScript and jQuery<br>- Backend: Node.js, Express.js<br><br>Oh did I tell you that I love Reading book specially non-fiction. 
+I'm a Associate Software Engineer(Trainee) at IDEMIA.<br><br>Here are my key skills:<br>- C++, Core Java<br>- Operating System Concept, Data Base Management System (basic)<br>- Frontend: HTML&CSS, Bootstrap, JavaScript and jQuery<br>- Backend: Node.js, Express.js, API, EJS<br><br>Oh did I tell you that I love Reading book specially non-fiction. 
 
 
 ## 🌐 Socials:
