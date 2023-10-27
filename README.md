@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Software Development Engineer 1 at IDEMIA.<br><br>Here are my key skills:<br>- C++, Core Java<br>- Operating System Concept, Data Base Management System (basic)<br>- Frontend: HTML&CSS, Bootstrap, JavaScript and jQuery<br>- Backend: Node.js, Express.js, API, EJS<br><br>Oh did I tell you that I love Reading book specially non-fiction. 
+I'm a Software Engineer at IDEMIA.<br><br>Here are my key skills:<br>- C++, Core Java<br>- Operating System Concept, Data Base Management System (basic)<br>- Frontend: HTML&CSS, Bootstrap, JavaScript and jQuery<br>- Backend: Node.js, Express.js, API, EJS<br><br>Oh did I tell you that I love Reading book specially non-fiction. 
 
 
 ## 🌐 Socials:
